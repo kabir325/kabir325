@@ -1,13 +1,27 @@
 # Hi there! 👋 I'm Kabir Sahu
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=Cybersecurity+Enthusiast;IoT+Developer;Blockchain+Explorer;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=R%26D+Intern+%40+Nokia;Cybersecurity+Enthusiast;IoT+Developer;Blockchain+Explorer;Always+Learning+New+Things!" alt="Typing SVG" />
 </div>
 
-### 🚀 About Me
-I'm a passionate Computer Science student at PES University with expertise in full-stack development, cybersecurity, and emerging technologies. I love building innovative solutions that bridge the gap between software and hardware, with a special focus on secure systems and IoT applications.
+## 💼 Current Role
 
-- 🔭 Currently working on **Collaborative Recruitment Platform** and **IoT Security Projects**
+<div align="center">
+  
+### 🔬 Research & Development Intern @ Nokia
+**Driving Innovation in Telecommunications Technology**
+
+*Leveraging expertise in cybersecurity, IoT, and network systems to contribute to next-generation telecom solutions*
+
+</div>
+
+---
+
+### 🚀 About Me
+I'm a passionate Computer Science student at PES University with expertise in full-stack development, cybersecurity, and emerging technologies. Currently applying my skills as an R&D Intern at **Nokia**, where I'm working on cutting-edge telecommunications solutions. I love building innovative systems that bridge software and hardware, with a special focus on secure networks and IoT applications.
+
+- 🔭 Currently working as **R&D Intern at Nokia** on telecommunications innovation
+- 🌐 Building **Collaborative Recruitment Platform** and **IoT Security Projects**
 - 🌱 Pursuing **Cyber Security & Connected Systems (CSCS)** certification
 - 💡 Preparing for **CCNA** certification (July-August 2025)
 - 🎯 Passionate about **Blockchain**, **Machine Learning**, and **Network Security**
@@ -79,6 +93,15 @@ I'm a passionate Computer Science student at PES University with expertise in fu
 
 ---
 
+## 💼 Professional Experience
+
+### 🔬 Research & Development Intern
+**Nokia** | *Current*
+
+Applying cybersecurity, networking, and IoT expertise to drive innovation in telecommunications technology. Contributing to cutting-edge research and development initiatives in next-generation network solutions.
+
+---
+
 ## 🎓 Education
 
 **🏛️ PES University** - BTech in Computer Science  
@@ -147,6 +170,7 @@ Hospital management system hosted on **Raspberry Pi 5** with **Python** and **Re
 
 ## 🎨 Interests & Hobbies
 
+- 🔬 **Telecommunications R&D** - Exploring innovations in network technology and security
 - 🎵 **Music & Content Creation** - Singing and playing guitar, creating original content on YouTube
 - 🔧 **Hardware Development** - IoT, embedded systems, and security solutions
 - 📷 **Photography & Travel** - Exploring new places and capturing moments
@@ -162,10 +186,10 @@ Hospital management system hosted on **Raspberry Pi 5** with **Python** and **Re
 
 <div align="center">
   
-**Currently at PES University | Bangalore, India | Pin: 560100**
+**R&D Intern @ Nokia | PES University Student | Bangalore, India**
 
-**Thanks for visiting! Let's build something amazing together! 😊**
+**Thanks for visiting! Let's innovate and build something amazing together! 🚀**
 
 </div>
 
-<!-- Proudly created based on my journey in tech -->
+<!-- Proudly created to showcase my journey in tech and telecommunications -->
